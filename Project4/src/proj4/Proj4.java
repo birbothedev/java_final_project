@@ -6,6 +6,7 @@ public class Proj4 {
 
         MusicDB musicDB = new MusicDB();
 
+        System.out.println("\n");
         System.out.println("Artist and Album Listing\n");
         System.out.println("Artists");
         System.out.println("--------------------");
@@ -14,6 +15,7 @@ public class Proj4 {
             System.out.println(artist);
         }
 
+        System.out.println("\n");
         System.out.println("Albums");
         System.out.println("--------------------");
 
@@ -21,6 +23,7 @@ public class Proj4 {
             System.out.println(album);
         }
 
+        System.out.println("\n");
         System.out.println("Albums by Artist");
         System.out.println("--------------------");
 
